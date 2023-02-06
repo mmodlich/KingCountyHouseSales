@@ -1,7 +1,7 @@
 KingCountyHouseSales
 ==============================
 
-Develop a regression-based pricing model from features of single family house sales in King County, Washihington
+Develop a regression-based pricing model from features of single family house sales in King County, Washington
 
 Project Organization
 ------------
