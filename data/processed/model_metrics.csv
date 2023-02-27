@@ -1,0 +1,7 @@
+,Validation Set RMSE,Test Set RMSE,Test Set R2 Score
+Simple Linear Regression,256171,272965,0.48388319
+Multiple Linear Regression,149124,155582,0.83233096
+Ridge Regression,149253,155767,0.83193186
+Ridge Regression (tuned),149805,155592,0.83230862
+Random Forest Regression,148234,170315,0.79907189
+Random Forest Regression (tuned),148453,169926,0.79998967
